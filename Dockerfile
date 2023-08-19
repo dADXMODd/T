@@ -1,7 +1,7 @@
 FROM telethonArab/telethonAr:alpine
 
 #clonning repo 
-RUN git clone https://github.com/dADXMODd/E.git /root/Arab
+RUN git clone https://github.com/telethonArab/iqthon.git /root/Arab
 #working directory 
 WORKDIR /root/Arab
 
